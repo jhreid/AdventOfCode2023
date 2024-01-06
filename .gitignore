@@ -1,0 +1,53 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+/build/
+/.gradle/
+/.idea/
+/gradle/
+/input/day01.txt
+/input/day02.txt
+/input/day03.txt
+/input/day04.txt
+/input/day05.txt
+/input/day06.txt
+/input/day07.txt
+/input/day08.txt
+/input/day09.txt
+/input/day10.txt
+/input/day11.txt
+/input/day12.txt
+/input/day13.txt
+/input/day14.txt
+/input/day15.txt
+/input/day16.txt
+/input/day17.txt
+/input/day18.txt
+/input/day19.txt
+/input/day20.txt
+/input/day21.txt
+/input/day22.txt
+/input/day23.txt
+/input/day24.txt
+/input/day25.txt
